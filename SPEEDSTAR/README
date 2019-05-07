@@ -1,0 +1,4 @@
+I made this small game at my first year second semester project course. It's coded in c++.
+Description: A car will have to reach it's destination by moving away from different automated obstacles on it's way.herer
+              Failing to reach the destination in certain time will result in "game over,succeeding" will take the player to next level.
+              There are five levels added here.You can also choose the color of the car at the beginning of the game.
